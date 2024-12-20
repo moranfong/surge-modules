@@ -1,4 +1,4 @@
-#!name=Mail SMTP
+#!name=MailSMTP
 #!desc=SMTP bypass for port 25, 465, and 587 to ensure direct mail delivery.
 #!author=FMoran
 #!system=ios

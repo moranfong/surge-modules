@@ -1,0 +1,9 @@
+#!name=Mail SMTP
+#!desc=SMTP bypass for port 25, 465, and 587 to ensure direct mail delivery.
+#!author=FMoran
+#!system=ios
+
+[Rule]
+DEST-PORT,25,DIRECT
+DEST-PORT,465,DIRECT
+DEST-PORT,587,DIRECT
